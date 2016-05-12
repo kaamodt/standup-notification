@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "node-red": "^0.13.4",
-    "node-red-contrib-speakerpi": "^0.0.29",
+    "node-red-contrib-speakerpi": "^0.0.30",
     "node-red-node-watson": "^0.3.0"
   }
 }
