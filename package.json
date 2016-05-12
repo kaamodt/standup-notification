@@ -4,11 +4,14 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node --max-old-space-size=128 node_modules/node-red/red.js --userDir ./flow --flowFile flow.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-red": "^0.13.4"
+    "node-red": "^0.13.4",
+    "node-red-contrib-speakerpi": "^0.0.29",
+    "node-red-node-watson": "^0.3.0"
   }
 }
