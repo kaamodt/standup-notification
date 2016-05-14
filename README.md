@@ -1,6 +1,6 @@
 # standup-notification
 
-## First you have to install libasound on the Raspberry Pi 
+## Install libasound on the Raspberry Pi 
 sudo apt-get update 
 sudo apt-get install libasound2-dev
 
@@ -18,3 +18,4 @@ alsamixer
 
 ## Run
 * npm start
+* Set the Watson T2S credentials in the Watson T2S node
