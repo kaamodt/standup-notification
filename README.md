@@ -20,6 +20,6 @@ alsamixer
 * npm start
 * Set the Watson T2S credentials in the Watson T2S node
 
-## Futures Potential
+## Future Potential
 * Implement iBeacon detection of team members in room
 * Make it platform independant (use browser instead of OS sound lib)
